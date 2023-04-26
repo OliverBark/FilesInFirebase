@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FilesinFirebase</string>
+    <string name="button_camera">Camera</string>
+    <string name="image_description">Image</string>
+    <string name="button_gallery">Gallery</string>
+
+</resources>
